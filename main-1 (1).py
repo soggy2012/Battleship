@@ -8,7 +8,7 @@ Ship = namedtuple('ship', 'x_cord y_cord alignment size')
 PLAYERS_SHIPS = {1: [], 2: []}
 
 # number of ships per player
-NUMBER_OF_SHIPS = 1
+NUMBER_OF_SHIPS = 3
 
 #  holds the scores of the players
 PLAYERS_SCORE = {1: 0, 2: 0}
